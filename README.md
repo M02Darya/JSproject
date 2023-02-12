@@ -11,4 +11,4 @@ If you want to share a best practice, or think one of these guidelines  should b
 If you want to share a best practice, or think one of these guidelines  should be removed, [feel free to share it with us](http://makeapullrequest.com).
 - [Git](#git)
 - [Documentation](#documentation)
-- [Environments](#environments)
+- [Environments](#environments)1
